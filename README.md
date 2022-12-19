@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benjaminrust
+- 👋 Hi, I’m @benjaminrust ... first off I work at Salesforce on our Heroku Platform 
 - 👀 I’m interested in all kinds of things. Technology, non-tech, books (loads of books), bicycles, food (tacos, pasta, (all the carbs))
 - 🌱 I’m currently learning fast.ai, pytorch, rust, julia, how to say no to projects
 - 💞️ I’m looking to collaborate on just about any project where i can be additive to the end goal
